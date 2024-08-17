@@ -1,5 +1,5 @@
 ---
-title: "jzhao.xyz"
+title: GATE preparation
 tags:
   - evergreen
 ---
