@@ -7,5 +7,8 @@ tags:
 
 sdasd
 
+[[content/index|index]]
+
+[[New file]]
 
 sd
