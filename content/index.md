@@ -7,7 +7,7 @@ tags:
 <img src="./banner.svg" width="701" height="183">
 
 ```poetry
-Welcome!
+Welcome! to the GATE preparation portal.
 ```
 
 I'm Jacky. This is my little [[thoughts/hypertext|hypertext]] [[posts/networked-thought|garden]] on the [[thoughts/Internet|Internet]] -- make yourself at home!
@@ -23,6 +23,6 @@ As far as 'about' pages go, I hope this acts as an open invitation into the many
 - [The bookshelf on the far wall](/books): books that are in some state of read, being read, or to be read.
 
 ```poetry
-- jacky :)
+- Ranjithvel M :)
 ```
 
