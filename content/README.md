@@ -1,10 +1,11 @@
 ```
 ---
-title: "New file"
+title: "README"
 draft: false
 tags:
   - 
 ---
  
 ```
-This is the first docs
+
+This is tge readme file
