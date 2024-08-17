@@ -4,7 +4,7 @@ tags:
   - evergreen
 ---
 
-<img src="./banner.svg" width="701" height="183">
+<img src="./excal.png" width="701" height="183">
 
 ```poetry
 Welcome! to the GATE preparation portal.
